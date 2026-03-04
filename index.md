@@ -62,7 +62,3 @@ https://www.notion.so/Mi-Band-BLE-Project-319a01cffdd9800b84d8c792e97af70b
 
 ---
 
-# Contact
-
-GitHub: https://github.com  
-Portfolio: https://kaoweipang.github.io
