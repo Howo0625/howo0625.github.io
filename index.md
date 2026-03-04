@@ -47,9 +47,13 @@ https://www.notion.so/KG-312a01cffdd9807b836eee195eedc916
 ---
 
 ### LLM Knowledge / Research Notes
-Notes and experiments on knowledge systems and LLM-based information processing.
+Notes and experiments on knowledge systems and LLM-based information processing. (MoEs)
 
 https://www.notion.so/312a01cffdd980b69a6dd7be1add6ca8
+
+Selected Parameter Efficiency Fine-tune (PEFT)
+
+https://www.notion.so/Selective-PEFT-Method-Analysis-319a01cffdd980c4ac26c168a3819fe0?source=copy_link
 
 ---
 
