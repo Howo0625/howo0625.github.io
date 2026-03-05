@@ -1,5 +1,4 @@
-# Kao Wei-Pang – AI Research Portfolio
-
+# Kao Wei-Pang – AI Research 
 This page summarizes my research and projects in financial AI, machine learning systems, and applied AI engineering.  
 Each project links to a detailed research log written in Notion.
 
@@ -31,7 +30,7 @@ https://www.notion.so/Financial-AI-Research-Framework-319a01cffdd98016b4e6ce66b2
 # AI Systems & Applications
 
 ### AI App – FastAPI Agent System
-AI application backend built with FastAPI, integrating LLM agents and API orchestration.
+AI application backend built with FastAPI, integrating LLM agents and API orchestration. (Travel Agent)
 
 https://www.notion.so/AI-App-FastAPI-Agent-6513b1856f7d4582bea145831b942bef
 
@@ -40,7 +39,7 @@ https://www.notion.so/AI-App-FastAPI-Agent-6513b1856f7d4582bea145831b942bef
 # Knowledge Systems
 
 ### Knowledge Graph Research
-Experiments and notes on building knowledge graphs and structured information systems.
+Experiments and notes on building knowledge graphs and structured information systems. (KG-Chatbot)
 
 https://www.notion.so/KG-312a01cffdd9807b836eee195eedc916
 
@@ -51,7 +50,7 @@ Notes and experiments on knowledge systems and LLM-based information processing.
 
 https://www.notion.so/312a01cffdd980b69a6dd7be1add6ca8
 
-Selected Parameter Efficiency Fine-tune (PEFT)
+Selected Parameter Efficiency Fine-tune (Opera PEFT)
 
 https://www.notion.so/Selective-PEFT-Method-Analysis-319a01cffdd980c4ac26c168a3819fe0?source=copy_link
 
@@ -60,7 +59,7 @@ https://www.notion.so/Selective-PEFT-Method-Analysis-319a01cffdd980c4ac26c168a38
 # Embedded / IoT Projects
 
 ### Mi Band BLE Reverse Engineering
-Bluetooth Low Energy communication with Xiaomi Mi Band for wearable data extraction and device interaction.
+Bluetooth Low Energy communication with Xiaomi Mi Band for wearable data extraction and device interaction. (wearable devices)
 
 https://www.notion.so/Mi-Band-BLE-Project-319a01cffdd9800b84d8c792e97af70b
 
